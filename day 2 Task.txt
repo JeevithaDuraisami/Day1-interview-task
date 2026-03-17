@@ -1,0 +1,147 @@
+BLOCK 2 – VERBAL ABILITY
+DAY 2 – FULL TRAINING PLAN
+===========================================
+
+BLOCK 1 – APTITUDE (Profit & Loss)
+
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.
+  solution:
+    cost price=400
+    selling price=480
+    profit=selling price-cost price
+          =480-400
+    profit=80
+    profit percentage=(profit * 100)/cost price
+                        
+                     =(80 * 100)/400
+                     =20%
+  Answer: profit percentage=20%
+                       
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+
+solution:
+     cp=1500
+     sp=1200
+     loss=cp-sp
+     loss=1500-1200=300
+     loss %=(loss * 100)/cp 
+            =(300 * 100)/1500
+            =20%
+  Answer: loss percenatge=20%
+
+        
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+
+Solution:
+      Let cp=100
+     marked price =20%
+     marked price=100+20=120
+     Discount=10%
+             =10% of 120
+             =(10/100) * 120
+      Discount=12
+    sp= marked price-discount
+      =120-12
+    sp=108
+    Profit=sp-cp
+          =108-100
+    profit=8
+   profit percentage=(profit*100)/100
+                    =(8*100)/100
+                    =8
+ Answer: profit percentage=8
+   
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+
+Solution:
+   cp of 1 pen=100/5
+              =20
+       s.p=cp*(100 + profit per)/100
+          =20*(100+25)/100
+          =20*(125)/100
+          =20*1.25
+       s.p=25
+  Answer: selling price=25
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+ solution:
+    cp=sp *(100/100-loss per)
+      =900*(100/100-10)
+      =900*(100/90)
+      cp=1000
+Answer: cost price=1000
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Software development is evolving rapidly with the rise of cloud computing and
+artificial intelligence. Companies are now building scalable systems that can
+handle millions of users simultaneously.
+
+Questions
+
+1. What technologies are influencing software development?
+  Answer:Software development is the influencing of cloud computing and artifical intelligence.
+
+2. Why are scalable systems important?
+  Answer:Companies are now building scalable Systems that can handle millions of users simultaneously.
+
+3. What does "scalable" mean in software systems?
+   Answer:Scalable means a system can handle increasing users or workload without performance problems.
+
+Grammar Correction
+
+1. He don't like programming.
+   Answer: He doesn't like programming.
+
+2. She have submitted the assignment.
+   Answer:She has submitted the assignment.
+
+3. They was discussing the project.
+   Answer:They were discussing the project.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Explain Your Final Year Project
+Include:
+Project Title:Student Performance Evaluation System.
+
+Problem Statemnet:In many schools and colleges, student marks and attendance are managed manually, which often leads to errors and inefficiency. 
+It is difficult to track student performance and generate results accurately. To solve this problem, we developed a Student Performance Evaluation 
+System that automates the process of managing student data, marks, attendance, and result calculation in a centralized and efficient way.
+
+Technologies Used:
+Backend: Spring Boot (Java)
+Database: MySQL
+Frontend: HTML, CSS, JavaScript
+Tools: Spring Tool Suite / IntelliJ
+
+ My Role:
+I developed the entire project individually, including:
+Backend logic using Spring Boot
+Database design and integration
+Frontend pages for user interaction.
+
+Challenges Faced:
+One major challenge was handling data relationships between student, marks, and attendance modules.
+I solved this by properly designing database tables and using entity relationships in Spring Boot.
+Another challenge was ensuring accurate result calculation, which I handled by implementing logic for total, percentage, and grading.
+
+
+===========================================
