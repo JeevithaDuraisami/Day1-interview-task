@@ -1,0 +1,110 @@
+DAY 3 – FULL TRAINING PLAN
+===========================================
+
+BLOCK 1 – APTITUDE (Ratio & Proportion)
+
+Question 1
+If the ratio of A:B is 3:5 and B:C is 2:3, find A:C.
+Solution:
+     A:B=3:5,
+     B:c=2:3
+     A:B=3*2:5*2=6:10
+     B:c=2*5:3*5=10:15
+     A:B:C=6:10:15
+Answer A:C=10:15
+
+
+Question 2
+Divide ₹1000 in the ratio 2:3:5.
+Solution:
+      divide=100
+      ratio=2:3:5
+      ratio=2+3+5=10
+      1000/10=100
+ ratio:
+      2*100=200
+      3*100=300
+      5*100=500
+
+Answer :200,300,500
+
+Question 3
+If 4 pens cost ₹40, what is the cost of 10 pens?
+Solution:
+        1 pen cost=10
+        4 pen cost=40
+        10 pen cost=10*10
+                   =100
+    Answer:100
+
+
+Question 4
+The ratio of boys to girls in a class is 3:2. If total students = 50, find number of girls.
+Solution:
+    Boys to girls=3:2
+                =3+2
+               = 5
+    Total Student=50
+                =50/5
+                10
+    1 part =10
+    boys 3*10=30
+    girls 2*10=20
+
+    Answer:20 girls 
+
+
+Question 5
+If A:B = 4:7 and B = 21, find A.
+Solution:
+      A:B=4:7
+      B=21
+      A:B=4*3:7*3
+         12:21
+Answer: A=12
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Data structures are essential for efficient problem solving. Choosing the
+right data structure can significantly improve performance.
+
+Questions
+
+1. Why are data structures important?
+  Answer:Data Structures are essential for efficient problem solving.
+2. What happens if we choose the wrong data structure?
+Answer:It can negatively affect performance, as the right choice is what significantly improves it.
+3. What does performance mean in programming?
+Answer:It refers to the speed and resource efficiency.
+
+
+Grammar Correction
+
+1. He go to college daily.
+ Answer:He goes to College daily
+2. She don’t likes coding.
+Answer:She doesn’t likes coding.
+3. We was solving problems.
+Answer:We are solving problems.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Your Strengths and Weaknesses
+
+1.One of my strengths is confidence. I believe in myself and I can express my ideas clearly without 
+fear. This helps me in communication and teamwork.
+2.Another strength is adaptability. I can adjust to new situations easily and learn new things quickly. 
+This helps me handle different environments without stress.
+
+My weakness is procrastination. Sometimes I delay my work instead of doing it on time.
+
+To improve this, I am trying to manage my time better and set small goals for myself. 
+I also avoid distractions and focus on completing tasks early.
+
+===========================================
