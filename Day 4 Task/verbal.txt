@@ -1,0 +1,48 @@
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Efficient algorithms and optimized systems are critical in large-scale applications.
+Companies like Amazon and Google rely heavily on scalable architectures.
+
+Questions
+
+1. Why are optimized systems important?
+Answer: They improve performance and handle large Workloads efficiently.
+2. What does scalability mean in real-world applications?
+Answer: Ability of a System to handle more users/data without slowing down.
+3. Name companies that depend on scalable systems.
+Answer:Amazon,Google
+
+Grammar Correction
+
+1. He didn’t knew the answer.
+Answer:He didn’t know the answer
+2. She is more smarter than him.
+Answer:She is smarter than him.
+3. They has completed the task.
+Answer:They have Completed the task
+
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a technical concept (e.g., Arrays / DBMS / OS)
+
+Include:
+- Definition
+     An array is a data structure that stores multiple elements in a single 
+container, where each element is accessed using an index.
+- Real-world example
+     A real-world example would be storing marks of students. Instead of creating
+ separate variables for each student, we store all marks in one array.
+For example:
+marks = [85, 90, 78, 92]
+- Use case
+   Storing large amounts of similar data
+Implementing other data structures like stacks and queues
+Used in algorithms such as searching and sorting
+
+===========================================
