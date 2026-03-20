@@ -1,0 +1,19 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a recent technical topic you learned
+
+Include:
+- Concept explanation
+- Example
+- Real-world use
+
+
+Today I want to talk about Javascript DOM ,which I learned recently.
+The DOM (Document Object Model) is a structure that represents an HTML webpage as a tree of elements. 
+JavaScript uses the DOM to access, modify, and update the content, style, and structure of a webpage dynamically.
+For example, using document.getElementById("title").innerHTML = "Hello";, we can change the text of an HTML element when a button is clicked.
+In real-world applications, the DOM is used in websites for tasks like form validation, updating content without reloading the page, and handling user interactions such as clicks and inputs.
+
+===========================================
