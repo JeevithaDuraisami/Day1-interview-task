@@ -1,0 +1,26 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain one challenge you faced while learning coding
+
+Include:
+- What was the challenge?
+- Why was it difficult?
+- How did you overcome it?
+- What did you learn from it?
+
+When I was in my first year, I didn’t know what coding or programming really meant. 
+It was completely new to me, and I had no basic understanding of how it works.
+
+The challenge I faced was starting from zero in my second year. It was difficult because 
+coding involves logic, syntax, and problem-solving skills. At first, I couldn’t understand errors, 
+and even small programs seemed confusing.
+
+To overcome this, I started learning step by step. I practiced basic programs, watched tutorials, 
+and asked my friends and teachers for help. Slowly, I began to understand concepts and gained confidence.
+
+From this experience, I learned that consistency and practice are very important in coding. Even if 
+something feels difficult at the beginning, we can improve with time and effort.
+
+===========================================
