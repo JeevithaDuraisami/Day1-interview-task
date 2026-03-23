@@ -1,0 +1,31 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+- DNS
+- Server
+- Response
+
+Typing the URL (Uniform Resource Locator)
+The Request: When you type a website address like www.google.com into your browser, you are sending a request to the internet.
+Human-Friendly: URLs are used because they are easy for humans to remember, but computers don't understand names—they only understand numbers.
+
+2. DNS (Domain Name System)
+The Phonebook: Think of DNS as the phonebook of the internet.
+The Conversion: Its job is to take the URL you typed and look up its unique IP Address (a string of numbers like 142.250.190.46). Without the IP 
+address, your computer doesn't know where the website is located.
+
+3. Server
+The Host: A server is a powerful computer that stays online 24/7. It stores all the files, images, and data of the website.
+The Destination: Once your browser has the IP address from the DNS, it travels through the network to reach this specific server.
+
+4. Response
+Data Transfer: After the server receives your request, it processes it and sends back a response.
+Loading the Page: This response contains the website’s code (HTML/CSS). Your browser receives this data and "renders" it, which is why the website 
+suddenly appears on your screen.
+
+===========================================
