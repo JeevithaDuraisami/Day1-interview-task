@@ -1,0 +1,31 @@
+
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain your favorite programming language
+
+Include:
+- Why you like it
+- Where it is used
+- Features
+- Example project
+
+Why I like it:
+I like Java because it follows the principle of 'Write Once, Run Anywhere' (WORA). This means if I write a code on Windows, 
+I can run it on any other operating system like Linux or Mac without changing anything. It is also very structured because it is strictly Object-Oriented.
+
+Where it is used:
+Java is used almost everywhere. It is the backbone of Android app development, large Banking systems, and Big Data technologies. Most enterprise-level web 
+applications prefer Java for its high security.
+
+Features:
+Simple: Java is easy to learn because its syntax is clean and based on C++.
+Object-Oriented (OOPS): Everything in Java is an "Object," which makes the code organized and reusable.
+Platform Independent: It follows the "Write Once, Run Anywhere" (WORA) rule using the JVM.
+
+Example Project:
+"My project is a Hotel Reservation System. It helps to book rooms and manage guest records easily. Using Java's OOPS concepts, I can create a secure system that 
+automatically calculates the total bill based on the room type and number of days stayed."
+
+===========================================
