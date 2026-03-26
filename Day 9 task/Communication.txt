@@ -1,0 +1,28 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain what happens when you run a program
+
+Include:
+- Compilation / Interpretation
+- Memory allocation
+- Execution
+- Output
+
+Compliation/Interpretation:
+In compiled languages like C or Java, the compiler converts the code into machine code before execution.
+In interpreted languages like Python, the code is executed line by line.
+
+ Memory allocation
+The computer assigns memory space in RAM to store variables, data, and instructions needed for the program.
+
+Execution
+The CPU starts processing the instructions step by step, performing calculations, logical operations, and controlling the flow of the program.
+
+Output
+The result of the program is displayed to the user, either on the screen, as a file, or in some other form.
+
+
+
+===========================================
