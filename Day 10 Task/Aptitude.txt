@@ -1,0 +1,56 @@
+ 
+BLOCK 1 – APTITUDE (Speed, Time & Distance)
+
+Question 1
+A car travels 60 km in 1 hour. What is the speed?
+Solution:
+      Distance=60 km
+      Time=1hr
+      speed=distance/Time
+           =60/1
+           =60.
+Answer: speed=60km.
+
+Question 2
+A train travels at 50 km/hr. How long will it take to travel 150 km?
+Solution: 
+     Distance=150km
+     Speed=50km
+     time=distance/time
+         =150/50
+         =3
+Answer: 3 hours.
+
+
+Question 3
+If a person walks at 5 km/hr, how far will they walk in 3 hours?
+Soluion:
+      Distance=speed * time 
+         Speed=5km/hr
+         Time=3 hours
+         Distance=5 * 3
+                =15km
+Answer: distance=15km
+
+Question 4
+Two trains move in opposite direction at 40 km/hr and 60 km/hr.
+Find relative speed.
+Solution: 
+   Oppesite direction= s1+s2
+   Relative speed=s1+s2
+                 =40+60
+                 =100km/hr
+Answer: Relative Speed=100km/hr.
+
+Question 5
+A car travels first half distance at 40 km/hr and second half at 60 km/hr.
+Find average speed.
+Solution:
+ Average Speed=(2 * s1 * s2)/s1+s2
+              =(2 * 40 * 60)/40+ 60
+              =(4800)/100
+              =48 km/hr
+              
+Answer: Average Speed= 48 km/hr.
+
+===========================================

@@ -1,0 +1,30 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain Binary Search algorithms:
+
+Include:
+- Sorted array
+- Middle element
+- Divide search space
+- Time complexity
+
+Sorted array:
+Binary search is used to find an element in a sorted array.
+
+Middle element:
+It works by checking the middle element of the array.
+If the middle element is equal to the target, we find the answer.
+
+Divide Search Space:
+If the target is smaller, we search in the left side.
+If it is bigger, we search in the right side.
+It divides the search space into half again and again.
+
+Time complexity:
+Because of this, binary search is very fast.
+Its time complexity is O(log n).
+
+
+===========================================
